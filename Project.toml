@@ -1,0 +1,11 @@
+name = "mdbtools_jll"
+uuid = "07583aeb-fc39-51f3-a266-a2fa5ce88e58"
+version = "0.8.2+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Glib_jll = "7746bdde-850d-59dc-9ae8-88ece973131d"
+
+[compat]
+julia = "1.0"

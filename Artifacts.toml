@@ -1,0 +1,97 @@
+[[mdbtools]]
+arch = "aarch64"
+git-tree-sha1 = "bdae2de9560b2323d2c2522ea65692e16037a157"
+libc = "glibc"
+os = "linux"
+
+    [[mdbtools.download]]
+    sha256 = "830130eb39d6115b1f2053aa2ce06f831f01066e4f8f383685afee3350da70f6"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.aarch64-linux-gnu.tar.gz"
+[[mdbtools]]
+arch = "aarch64"
+git-tree-sha1 = "adf64da6ffc8b7f2a9818ebdeaa57f8a83220103"
+libc = "musl"
+os = "linux"
+
+    [[mdbtools.download]]
+    sha256 = "0dbdcd77a2e27bd36402163aeb883505d66f63bfe67171f6ce22cf1e051524f8"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.aarch64-linux-musl.tar.gz"
+[[mdbtools]]
+arch = "armv7l"
+git-tree-sha1 = "5333bf937023f0a4b8d651d1e19be21301ee9bff"
+libc = "glibc"
+os = "linux"
+
+    [[mdbtools.download]]
+    sha256 = "72907e119f2222ebd937345c86365c93fe9a1067e96c544cf7e6ee3fbdcad8ae"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.armv7l-linux-gnueabihf.tar.gz"
+[[mdbtools]]
+arch = "armv7l"
+git-tree-sha1 = "c31503142271390140a0c301cd73c2aa767aa902"
+libc = "musl"
+os = "linux"
+
+    [[mdbtools.download]]
+    sha256 = "98e4ff5c1609c10ab16ebb1f4c10813734bbf511c7ec672b53e7e9fc33be140b"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.armv7l-linux-musleabihf.tar.gz"
+[[mdbtools]]
+arch = "i686"
+git-tree-sha1 = "c0cbf842de0ffeabcc3c93659de9d2f9dfcad8dd"
+libc = "glibc"
+os = "linux"
+
+    [[mdbtools.download]]
+    sha256 = "cf8b9e28a415f7e2224c4bc129c020cf8557c994535f4414a9402e0973d6a2c1"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.i686-linux-gnu.tar.gz"
+[[mdbtools]]
+arch = "i686"
+git-tree-sha1 = "fc7ae4aca7d5f48fefbee6d1c4aad8447fe864d0"
+libc = "musl"
+os = "linux"
+
+    [[mdbtools.download]]
+    sha256 = "94098282584ae8fbf15ecaece336e0e00b46fb1bf76808f60f371774a05fd292"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.i686-linux-musl.tar.gz"
+[[mdbtools]]
+arch = "powerpc64le"
+git-tree-sha1 = "033599745851d7e88d5d7010e89a66f691d63af8"
+libc = "glibc"
+os = "linux"
+
+    [[mdbtools.download]]
+    sha256 = "974623958a3c8e8dccb522e06ed719a07972166c1058c98fa4a59fcb03f22c58"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.powerpc64le-linux-gnu.tar.gz"
+[[mdbtools]]
+arch = "x86_64"
+git-tree-sha1 = "fcbff849c8e2a2ef388a97150ade11df485a89fd"
+os = "macos"
+
+    [[mdbtools.download]]
+    sha256 = "16b4558a745a2317ba5909eccff6eaeccfa00f885bfad0b009bdb38d92d54e9c"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.x86_64-apple-darwin14.tar.gz"
+[[mdbtools]]
+arch = "x86_64"
+git-tree-sha1 = "1ddb5a3fa89116c8b3b5f81941879e8ab0eec46b"
+libc = "glibc"
+os = "linux"
+
+    [[mdbtools.download]]
+    sha256 = "49ca4c66c465f0bcdc96b9ea180f167f0fba13579f01bb0f5e93db72222f3ec6"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.x86_64-linux-gnu.tar.gz"
+[[mdbtools]]
+arch = "x86_64"
+git-tree-sha1 = "af47c0fed2260daa4548bc7072eac94a007b1af9"
+libc = "musl"
+os = "linux"
+
+    [[mdbtools.download]]
+    sha256 = "c5ceb6c81c021b7e574941652dd0b7c8683bdf698f9ed01148755a0ef2521b61"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.x86_64-linux-musl.tar.gz"
+[[mdbtools]]
+arch = "x86_64"
+git-tree-sha1 = "6efd4b4c2655a6e1363169affdaeec7c667e8cf0"
+os = "freebsd"
+
+    [[mdbtools.download]]
+    sha256 = "f2048853c07032752633a908800b32201b9a5ea9937c0ea7b567e4b5bc448005"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.x86_64-unknown-freebsd11.1.tar.gz"
