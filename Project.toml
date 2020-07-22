@@ -1,6 +1,6 @@
 name = "mdbtools_jll"
 uuid = "07583aeb-fc39-51f3-a266-a2fa5ce88e58"
-version = "0.8.2+0"
+version = "0.8.2+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"

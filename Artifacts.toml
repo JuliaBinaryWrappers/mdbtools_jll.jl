@@ -1,97 +1,113 @@
 [[mdbtools]]
 arch = "aarch64"
-git-tree-sha1 = "bdae2de9560b2323d2c2522ea65692e16037a157"
+git-tree-sha1 = "7003a74ef0b99e1e3d7e0ae29bf74a06f3bef9fc"
 libc = "glibc"
 os = "linux"
 
     [[mdbtools.download]]
-    sha256 = "830130eb39d6115b1f2053aa2ce06f831f01066e4f8f383685afee3350da70f6"
-    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.aarch64-linux-gnu.tar.gz"
+    sha256 = "29ed1a6c536f3596835b243f0757c7311b7f8050e062035a74d5486bc3d5d4cd"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+1/mdbtools.v0.8.2.aarch64-linux-gnu.tar.gz"
 [[mdbtools]]
 arch = "aarch64"
-git-tree-sha1 = "adf64da6ffc8b7f2a9818ebdeaa57f8a83220103"
+git-tree-sha1 = "55a4ce8c205c526f778a3205975a1be4b050f092"
 libc = "musl"
 os = "linux"
 
     [[mdbtools.download]]
-    sha256 = "0dbdcd77a2e27bd36402163aeb883505d66f63bfe67171f6ce22cf1e051524f8"
-    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.aarch64-linux-musl.tar.gz"
+    sha256 = "ca1f54f5b22a2a3399723899dde7afb4966a71e8cdedc3950c30403be333d69a"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+1/mdbtools.v0.8.2.aarch64-linux-musl.tar.gz"
 [[mdbtools]]
 arch = "armv7l"
-git-tree-sha1 = "5333bf937023f0a4b8d651d1e19be21301ee9bff"
+git-tree-sha1 = "b43dbf76feaab5321487c65aca13e2c5e66f9864"
 libc = "glibc"
 os = "linux"
 
     [[mdbtools.download]]
-    sha256 = "72907e119f2222ebd937345c86365c93fe9a1067e96c544cf7e6ee3fbdcad8ae"
-    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "4ba1a8db1a6024c7c1279c6d4f0e3267b751207255d2bf6af907faaf030d5e3f"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+1/mdbtools.v0.8.2.armv7l-linux-gnueabihf.tar.gz"
 [[mdbtools]]
 arch = "armv7l"
-git-tree-sha1 = "c31503142271390140a0c301cd73c2aa767aa902"
+git-tree-sha1 = "b277964daf9a78009504061d7cb1b5e321ed8c39"
 libc = "musl"
 os = "linux"
 
     [[mdbtools.download]]
-    sha256 = "98e4ff5c1609c10ab16ebb1f4c10813734bbf511c7ec672b53e7e9fc33be140b"
-    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "4f522eadc57fbd2ac307add6c6c003bd4f209285d5309eedb90abaf2e0de7e73"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+1/mdbtools.v0.8.2.armv7l-linux-musleabihf.tar.gz"
 [[mdbtools]]
 arch = "i686"
-git-tree-sha1 = "c0cbf842de0ffeabcc3c93659de9d2f9dfcad8dd"
+git-tree-sha1 = "83995234c0765d649d6cfc9cc66f37424b968c49"
 libc = "glibc"
 os = "linux"
 
     [[mdbtools.download]]
-    sha256 = "cf8b9e28a415f7e2224c4bc129c020cf8557c994535f4414a9402e0973d6a2c1"
-    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.i686-linux-gnu.tar.gz"
+    sha256 = "8babdfa6cbf2156880d1c05bf34c592ede5bd9e350e49e436d8f73e4b0fb580f"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+1/mdbtools.v0.8.2.i686-linux-gnu.tar.gz"
 [[mdbtools]]
 arch = "i686"
-git-tree-sha1 = "fc7ae4aca7d5f48fefbee6d1c4aad8447fe864d0"
+git-tree-sha1 = "25ac9f7db89cdc7f8fd070a9202e2be3517a5180"
 libc = "musl"
 os = "linux"
 
     [[mdbtools.download]]
-    sha256 = "94098282584ae8fbf15ecaece336e0e00b46fb1bf76808f60f371774a05fd292"
-    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.i686-linux-musl.tar.gz"
+    sha256 = "2ef98178d25ea436d4e5348649e598a8cca192274eb02c569801e8d25d557a2c"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+1/mdbtools.v0.8.2.i686-linux-musl.tar.gz"
+[[mdbtools]]
+arch = "i686"
+git-tree-sha1 = "19390fe8142f4246abdc75f734b1d8d050669591"
+os = "windows"
+
+    [[mdbtools.download]]
+    sha256 = "f912434e554af0b5b4f8f3e3a13c013b4e1c9aec2893d4a2fb36ea0285d0a0ce"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+1/mdbtools.v0.8.2.i686-w64-mingw32.tar.gz"
 [[mdbtools]]
 arch = "powerpc64le"
-git-tree-sha1 = "033599745851d7e88d5d7010e89a66f691d63af8"
+git-tree-sha1 = "d57a9054e6affc4bd0a6a64385e9cd102880ad4c"
 libc = "glibc"
 os = "linux"
 
     [[mdbtools.download]]
-    sha256 = "974623958a3c8e8dccb522e06ed719a07972166c1058c98fa4a59fcb03f22c58"
-    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "934ccb693eed90a1694247c10cfabcdd9dd8d7b274ff5d6572975c9af5d4a009"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+1/mdbtools.v0.8.2.powerpc64le-linux-gnu.tar.gz"
 [[mdbtools]]
 arch = "x86_64"
-git-tree-sha1 = "fcbff849c8e2a2ef388a97150ade11df485a89fd"
+git-tree-sha1 = "41e5ad3670a2af719136d7e84ac9a54cca0acd8d"
 os = "macos"
 
     [[mdbtools.download]]
-    sha256 = "16b4558a745a2317ba5909eccff6eaeccfa00f885bfad0b009bdb38d92d54e9c"
-    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.x86_64-apple-darwin14.tar.gz"
+    sha256 = "cc328fd01a957ff457101c7e8782688d96ccd21cbc63d0929c64e7fea50b4ce1"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+1/mdbtools.v0.8.2.x86_64-apple-darwin14.tar.gz"
 [[mdbtools]]
 arch = "x86_64"
-git-tree-sha1 = "1ddb5a3fa89116c8b3b5f81941879e8ab0eec46b"
+git-tree-sha1 = "91d44e6268a274fb3ecf3a8ef0cbbec030c2d3f8"
 libc = "glibc"
 os = "linux"
 
     [[mdbtools.download]]
-    sha256 = "49ca4c66c465f0bcdc96b9ea180f167f0fba13579f01bb0f5e93db72222f3ec6"
-    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "d5c978f074e8922d68256e314ccdea2a48b8def57768f865ce190ea7f2546e8b"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+1/mdbtools.v0.8.2.x86_64-linux-gnu.tar.gz"
 [[mdbtools]]
 arch = "x86_64"
-git-tree-sha1 = "af47c0fed2260daa4548bc7072eac94a007b1af9"
+git-tree-sha1 = "ea38d5261f0c2de9aaecd65844269847a2ba9939"
 libc = "musl"
 os = "linux"
 
     [[mdbtools.download]]
-    sha256 = "c5ceb6c81c021b7e574941652dd0b7c8683bdf698f9ed01148755a0ef2521b61"
-    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.x86_64-linux-musl.tar.gz"
+    sha256 = "c0967cc94d4a04837950468007107674df89ff9f8f17b09bc805af11eba59d80"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+1/mdbtools.v0.8.2.x86_64-linux-musl.tar.gz"
 [[mdbtools]]
 arch = "x86_64"
-git-tree-sha1 = "6efd4b4c2655a6e1363169affdaeec7c667e8cf0"
+git-tree-sha1 = "ac176f4bb23ae6f67b71770e29b7fba96e54fa35"
 os = "freebsd"
 
     [[mdbtools.download]]
-    sha256 = "f2048853c07032752633a908800b32201b9a5ea9937c0ea7b567e4b5bc448005"
-    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+0/mdbtools.v0.8.2.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "ae61d7d53bd4002daa361b10f712ca9e07ef4136545170d87ed15eab6a27af1b"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+1/mdbtools.v0.8.2.x86_64-unknown-freebsd11.1.tar.gz"
+[[mdbtools]]
+arch = "x86_64"
+git-tree-sha1 = "81cd711e701ac363b7ed8284ffcee44c953eddef"
+os = "windows"
+
+    [[mdbtools.download]]
+    sha256 = "9bd36697e6cfc68349dd2f4daeaf56cb09b4df7ddc620a3d8b986f839d1552d5"
+    url = "https://github.com/JuliaBinaryWrappers/mdbtools_jll.jl/releases/download/mdbtools-v0.8.2+1/mdbtools.v0.8.2.x86_64-w64-mingw32.tar.gz"
